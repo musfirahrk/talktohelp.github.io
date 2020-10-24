@@ -1,0 +1,28 @@
+{
+      "expo": {
+        "name": "TalkToHelp",
+        "slug": "TalkToHelp",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/talktohelp.png",
+        "splash": {
+          "image": "./assets/talktohelp.png",
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        },
+        "updates": {
+          "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+          "**/*"
+        ],
+        "ios": {
+          "supportsTablet": true
+        },
+        "web": {
+          "talkt": "./assets/talktohelp.png"
+        }
+      }
+
+      
+    }
